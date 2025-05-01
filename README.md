@@ -5,7 +5,7 @@
 This project analyzes product trends, pricing strategies, and customer ratings across nearly 20,000 products on Flipkart using Python (pandas, matplotlib). The goal was to extract actionable business insights from a real-world e-commerce dataset and demonstrate advanced data wrangling, feature engineering, and visualization skills.
 
 - **Project completed:** March 2025 (uploaded to GitHub April 2025)
-- **Academic context:** Developed as part of the Google Advanced Data Analytics Certificate (Coursera, completed April 16, 2025)
+- **Academic context:** Developed as part of the Google Advanced Data Analytics Certificate (Coursera, completed April 16, 2025, Credential ID: QCQQXEPZLW3K)
 - **Dataset:** [Flipkart E-Commerce Sample (Kaggle)](https://www.kaggle.com/datasets/PromptCloudHQ/flipkart-products)
 
 ## Objectives
