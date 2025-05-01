@@ -1,81 +1,70 @@
-# 📊 Flipkart E‑Commerce Product Analysis
+# Flipkart E-Commerce Product Analysis
 
-A data analysis project that explores trends, pricing strategies, and customer ratings across thousands of products on Flipkart. This project is designed to generate insights and share compelling data visualizations for platforms like LinkedIn.
+## Project Overview
 
-## 🔍 Project Summary
+This project analyzes product trends, pricing strategies, and customer ratings across nearly 20,000 products on Flipkart using Python (pandas, matplotlib). The goal was to extract actionable business insights from a real-world e-commerce dataset and demonstrate advanced data wrangling, feature engineering, and visualization skills.
 
-This notebook:
-- Loads and cleans Flipkart e-commerce product data
-- Extracts product categories and filters out sparse ones
-- Computes key business metrics such as:
-  - Top product categories
-  - Categories with the highest average discounts
-  - Customer ratings across budget vs premium products
-- Generates three insightful visualizations
-- Prepares a ready-to-share LinkedIn summary post
-- Packages all visuals into a downloadable ZIP file
+- **Project completed:** March 2025 (uploaded to GitHub April 2025)
+- **Academic context:** Developed as part of the Google Advanced Data Analytics Certificate (Coursera, completed April 16, 2025)
+- **Dataset:** [Flipkart E-Commerce Sample (Kaggle)](https://www.kaggle.com/datasets/PromptCloudHQ/flipkart-products)
 
----
+## Objectives
 
-## 📈 Key Findings
+- Clean and structure a large e-commerce dataset
+- Identify top product categories and those with the highest average discounts
+- Analyze customer ratings for budget vs. premium products
+- Generate clear, reproducible visualizations and a summary report
 
-- **Top Category**: Clothing (31.5% of listings)
-- **Best Discounts**: Sunglasses (avg. 60.6% off)
-- **Average Ratings**:
-  - Products under ₹2,000 → 3.79 / 5
-  - Products ₹10,000 or more → 4.11 / 5
+## Methodology
 
----
+1. **Data Preparation:**  
+   - Loaded and cleaned Flipkart product data from Kaggle
+   - Extracted main product categories and filtered out sparse categories
 
-## 📁 Included Visualizations
+2. **Business Metrics:**  
+   - Top categories by product count
+   - Categories with highest average discount
+   - Average customer ratings for products under ₹2,000 and above ₹10,000
 
-| Chart | Description |
-|-------|-------------|
-| `top_categories.png` | Top 8 product categories by count |
-| `discounts_by_category.png` | Categories offering highest average discount |
-| `avg_rating_by_price.png` | Rating comparison: budget vs premium |
+3. **Visualization:**  
+   - Bar charts for category counts and discounts
+   - Comparative bar chart for average ratings (budget vs premium)
 
-All charts are included in `flipkart_charts.zip` for easy sharing.
+## Key Results
 
----
+- **Top Category:** Clothing (31.5% of listings)
+- **Best Discounts:** Sunglasses (avg. 60.6% off)
+- **Average Ratings:**  
+  - Products under ₹2,000: 3.79 / 5  
+  - Products ₹10,000 or more: 4.11 / 5
 
-## 📦 Tools & Libraries Used
+## Files Included
 
-- **Python**
-  - `pandas` — data manipulation
-  - `numpy` — numerical operations
-  - `matplotlib` — visualizations
-  - `zipfile` — packaging chart files
+- `flipcart_trend_analysis2.ipynb` – Jupyter notebook with all code, analysis, and visualizations
+- `README.md` – This documentation
 
----
+## Tools & Libraries Used
 
-## 🧠 Motivation
+- Python 3.x
+- pandas, numpy
+- matplotlib
 
-This project was built as part of my journey through the **Google Advanced Data Analytics Certificate**, demonstrating my skills in:
-- Real-world dataset analysis
-- Data cleaning and transformation
-- Visual storytelling with Python
+## Academic Context
 
----
+- **Google Advanced Data Analytics Certificate** (Coursera, completed April 16, 2025)
+- **Other Projects:**  
+  - EZTax WebApp: AI-driven tax analytics platform  
+  - Tumor Detection with Explainable AI: Deep learning for medical imaging (April 2025)
+  - ESG Stock Predictor for EU companies (to be completed May 2025)
 
-## 📂 Dataset
+## What’s Next?
 
-- Source: [Flipkart E‑Commerce Sample (Kaggle)](https://www.kaggle.com/datasets/PromptCloudHQ/flipkart-products)
+After this project, I focused on building a deep learning model for tumor detection using explainable AI techniques (Keras, scikit-learn) and will soon complete an ESG-driven stock performance predictor for European companies.
 
----
+## Contact
 
-## ✍️ Ready-to-Post LinkedIn Snippet
-
-The script auto-generates a copy-paste-friendly LinkedIn post summarizing the insights — ideal for personal branding and sharing progress in your data analytics journey.
+For questions or collaboration, connect on [LinkedIn](https://www.linkedin.com/in/jatinjayara/) or email [your.email@email.com].
 
 ---
 
-## 🚀 What’s Next?
-
-I'm working on a new project involving **brain tumour detection using explainable AI**, leveraging:
-- Keras
-- NumPy
-- scikit-learn
-- Medical image analysis
-
-Stay tuned!
+*This project is part of my analytics portfolio and demonstrates my ability to deliver business insights from large, real-world datasets.*
