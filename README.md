@@ -52,14 +52,13 @@ This project analyzes product trends, pricing strategies, and customer ratings a
 ## Academic Context
 
 - **Google Advanced Data Analytics Certificate** (Coursera, completed April 16, 2025)
-- **Other Projects:**  
+- **Other Projects:**
+  -Customer Churn Prediction: predicts customer churn for a telecom company using supervised machine learning.
   - EZTax WebApp: AI-driven tax analytics platform  
   - Tumor Detection with Explainable AI: Deep learning for medical imaging (April 2025)
-  - ESG Stock Predictor for EU companies (to be completed May 2025)
+  
 
-## What’s Next?
 
-After this project, I focused on building a deep learning model for tumor detection using explainable AI techniques (Keras, scikit-learn) and will soon complete an ESG-driven stock performance predictor for European companies.
 
 ## Contact
 
