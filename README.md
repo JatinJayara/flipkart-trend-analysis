@@ -38,10 +38,23 @@ This project analyzes product trends, pricing strategies, and customer ratings a
   - Products under ₹2,000: 3.79 / 5  
   - Products ₹10,000 or more: 4.11 / 5
 
+## Research & Visualizations
+
+#### 1. Top 8 Categories by Product Count  
+![Top Categories](images/top_categories.png)
+
+#### 2. Top 8 Categories by Average Discount (%)  
+![Discounts by Category](images/discounts_by_category.png)
+
+#### 3. Average Rating Comparison: Budget vs Premium  
+![Rating Comparison](images/avg_rating_by_price.png)
+
 ## Files Included
 
 - `flipcart_trend_analysis2.ipynb` – Jupyter notebook with all code, analysis, and visualizations
 - `README.md` – This documentation
+- 'images' - the visualisations produced
+
 
 ## Tools & Libraries Used
 
